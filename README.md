@@ -8,13 +8,13 @@ characteristics about the patient are
 included in each row.
 <br>● ‘ScheduledDay’ tells us on
 what day the patient set up their
-appointment.
+appointment.<br>
 ● ‘Neighborhood’ indicates the
-location of the hospital.
+location of the hospital.<br>
 ● ‘Scholarship’ indicates
 whether or not the patient is
 enrolled in Brasilian welfare
-program Bolsa Família.
+program Bolsa Família.<br>
 ● Be careful about the encoding
 of the last column: it says ‘No’ if
 the patient showed up to their
